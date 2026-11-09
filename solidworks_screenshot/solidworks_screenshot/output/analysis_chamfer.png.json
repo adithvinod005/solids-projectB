@@ -1,0 +1,1719 @@
+{
+  "image": {
+    "width": 1920,
+    "height": 1080,
+    "original_path": "C:\\Users\\Admin\\OneDrive\\Desktop\\solids projectB\\solidworks_screenshot\\solidworks_screenshot\\screenshots\\chamfer.png.png",
+    "was_resized": false
+  },
+  "regions": [
+    {
+      "name": "left_ui_panel",
+      "confidence": 0.8,
+      "bbox": [
+        0,
+        54,
+        346,
+        1026
+      ],
+      "detection_method": "heuristic"
+    },
+    {
+      "name": "graphics_area",
+      "confidence": 0.7,
+      "bbox": [
+        346,
+        54,
+        1920,
+        972
+      ],
+      "detection_method": "heuristic"
+    },
+    {
+      "name": "status_bar",
+      "confidence": 0.5,
+      "bbox": [
+        0,
+        1026,
+        1920,
+        1080
+      ],
+      "detection_method": "heuristic"
+    }
+  ],
+  "ocr": [
+    {
+      "text": ">",
+      "confidence": 52.0,
+      "bbox": [
+        141,
+        63,
+        153,
+        74
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "of",
+      "confidence": 73.0,
+      "bbox": [
+        190,
+        57,
+        208,
+        75
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "Features",
+      "confidence": 95.0,
+      "bbox": [
+        23,
+        124,
+        77,
+        135
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "|",
+      "confidence": 95.0,
+      "bbox": [
+        86,
+        120,
+        95,
+        142
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "Sketch",
+      "confidence": 96.0,
+      "bbox": [
+        100,
+        124,
+        142,
+        135
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "|",
+      "confidence": 95.0,
+      "bbox": [
+        149,
+        120,
+        157,
+        142
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "Markup",
+      "confidence": 96.0,
+      "bbox": [
+        163,
+        124,
+        211,
+        138
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "|",
+      "confidence": 96.0,
+      "bbox": [
+        215,
+        120,
+        223,
+        142
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "Evaluate",
+      "confidence": 95.0,
+      "bbox": [
+        232,
+        124,
+        287,
+        135
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "|",
+      "confidence": 92.0,
+      "bbox": [
+        295,
+        120,
+        304,
+        142
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "MBD|",
+      "confidence": 66.0,
+      "bbox": [
+        308,
+        124,
+        346,
+        135
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "vitests",
+      "confidence": 47.0,
+      "bbox": [
+        45,
+        162,
+        91,
+        173
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "Items",
+      "confidence": 88.0,
+      "bbox": [
+        29,
+        400,
+        62,
+        410
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "to",
+      "confidence": 93.0,
+      "bbox": [
+        66,
+        401,
+        79,
+        410
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "Chamfer",
+      "confidence": 82.0,
+      "bbox": [
+        84,
+        400,
+        135,
+        410
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "@",
+      "confidence": 70.0,
+      "bbox": [
+        35,
+        426,
+        52,
+        444
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "CO",
+      "confidence": 44.0,
+      "bbox": [
+        57,
+        476,
+        69,
+        500
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "show",
+      "confidence": 44.0,
+      "bbox": [
+        61,
+        480,
+        111,
+        496
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "selection",
+      "confidence": 94.0,
+      "bbox": [
+        116,
+        483,
+        165,
+        493
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "toolbar",
+      "confidence": 87.0,
+      "bbox": [
+        170,
+        483,
+        213,
+        493
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "propagation",
+      "confidence": 96.0,
+      "bbox": [
+        131,
+        511,
+        202,
+        523
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "OfFull",
+      "confidence": 51.0,
+      "bbox": [
+        61,
+        537,
+        98,
+        553
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "preview",
+      "confidence": 96.0,
+      "bbox": [
+        104,
+        543,
+        148,
+        553
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "©",
+      "confidence": 50.0,
+      "bbox": [
+        57,
+        561,
+        69,
+        585
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "Partial",
+      "confidence": 50.0,
+      "bbox": [
+        61,
+        565,
+        115,
+        581
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "preview",
+      "confidence": 96.0,
+      "bbox": [
+        121,
+        571,
+        165,
+        581
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "ONo",
+      "confidence": 53.0,
+      "bbox": [
+        61,
+        593,
+        97,
+        609
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "preview",
+      "confidence": 96.0,
+      "bbox": [
+        103,
+        599,
+        147,
+        609
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "Chamfer",
+      "confidence": 86.0,
+      "bbox": [
+        29,
+        633,
+        80,
+        643
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "Parameters",
+      "confidence": 96.0,
+      "bbox": [
+        85,
+        633,
+        153,
+        643
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "ORip",
+      "confidence": 41.0,
+      "bbox": [
+        61,
+        655,
+        99,
+        671
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "direction",
+      "confidence": 96.0,
+      "bbox": [
+        105,
+        658,
+        154,
+        668
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "[700.00mm",
+      "confidence": 71.0,
+      "bbox": [
+        64,
+        689,
+        129,
+        699
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "Iv",
+      "confidence": 48.0,
+      "bbox": [
+        34,
+        725,
+        51,
+        741
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "[45.00deg",
+      "confidence": 52.0,
+      "bbox": [
+        63,
+        727,
+        120,
+        740
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "Chamfer",
+      "confidence": 91.0,
+      "bbox": [
+        29,
+        771,
+        80,
+        781
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "Options",
+      "confidence": 96.0,
+      "bbox": [
+        85,
+        771,
+        133,
+        784
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "@select",
+      "confidence": 54.0,
+      "bbox": [
+        63,
+        789,
+        115,
+        813
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "through",
+      "confidence": 96.0,
+      "bbox": [
+        121,
+        796,
+        163,
+        809
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "faces",
+      "confidence": 92.0,
+      "bbox": [
+        170,
+        796,
+        200,
+        806
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "@keep",
+      "confidence": 67.0,
+      "bbox": [
+        61,
+        821,
+        109,
+        837
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "features",
+      "confidence": 76.0,
+      "bbox": [
+        114,
+        824,
+        161,
+        834
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "*Fron",
+      "confidence": 91.0,
+      "bbox": [
+        303,
+        941,
+        346,
+        954
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "|",
+      "confidence": 66.0,
+      "bbox": [
+        19,
+        960,
+        21,
+        979
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "[GRD]",
+      "confidence": 48.0,
+      "bbox": [
+        46,
+        960,
+        127,
+        979
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "Medel",
+      "confidence": 78.0,
+      "bbox": [
+        143,
+        963,
+        190,
+        975
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "[",
+      "confidence": 64.0,
+      "bbox": [
+        202,
+        960,
+        203,
+        979
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "Motion",
+      "confidence": 88.0,
+      "bbox": [
+        217,
+        963,
+        265,
+        975
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "study7",
+      "confidence": 83.0,
+      "bbox": [
+        271,
+        963,
+        320,
+        979
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "elect",
+      "confidence": 67.0,
+      "bbox": [
+        20,
+        996,
+        51,
+        1007
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "a",
+      "confidence": 95.0,
+      "bbox": [
+        56,
+        999,
+        62,
+        1007
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "handle",
+      "confidence": 46.0,
+      "bbox": [
+        68,
+        996,
+        129,
+        1007
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "to",
+      "confidence": 96.0,
+      "bbox": [
+        118,
+        988,
+        131,
+        1016
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "modify",
+      "confidence": 96.0,
+      "bbox": [
+        135,
+        996,
+        181,
+        1009
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "parameters",
+      "confidence": 94.0,
+      "bbox": [
+        186,
+        997,
+        260,
+        1009
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "Dimensions",
+      "confidence": 93.0,
+      "bbox": [
+        346,
+        124,
+        421,
+        135
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "|",
+      "confidence": 96.0,
+      "bbox": [
+        431,
+        115,
+        439,
+        145
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "SOLIDWORKS",
+      "confidence": 96.0,
+      "bbox": [
+        444,
+        124,
+        536,
+        135
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "Add-Ins",
+      "confidence": 83.0,
+      "bbox": [
+        540,
+        124,
+        592,
+        135
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "|",
+      "confidence": 41.0,
+      "bbox": [
+        1607,
+        113,
+        1617,
+        143
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "9",
+      "confidence": 44.0,
+      "bbox": [
+        789,
+        190,
+        800,
+        201
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "welcome",
+      "confidence": 81.0,
+      "bbox": [
+        1651,
+        183,
+        1704,
+        193
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "to",
+      "confidence": 96.0,
+      "bbox": [
+        1709,
+        184,
+        1720,
+        193
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "SOLIDWORKS",
+      "confidence": 94.0,
+      "bbox": [
+        1725,
+        184,
+        1805,
+        193
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "(Default)",
+      "confidence": 95.0,
+      "bbox": [
+        389,
+        224,
+        446,
+        237
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "<<",
+      "confidence": 93.0,
+      "bbox": [
+        453,
+        227,
+        469,
+        234
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "||",
+      "confidence": 40.0,
+      "bbox": [
+        1586,
+        234,
+        1600,
+        253
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "=",
+      "confidence": 76.0,
+      "bbox": [
+        1861,
+        240,
+        1871,
+        246
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "Rebuild",
+      "confidence": 96.0,
+      "bbox": [
+        353,
+        264,
+        404,
+        275
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "Errors",
+      "confidence": 92.0,
+      "bbox": [
+        410,
+        264,
+        451,
+        275
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "700mm",
+      "confidence": 90.0,
+      "bbox": [
+        948,
+        269,
+        989,
+        278
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "jd",
+      "confidence": 44.0,
+      "bbox": [
+        346,
+        298,
+        356,
+        309
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "not",
+      "confidence": 96.0,
+      "bbox": [
+        362,
+        299,
+        383,
+        309
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "build",
+      "confidence": 96.0,
+      "bbox": [
+        388,
+        298,
+        420,
+        309
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "chamfer",
+      "confidence": 96.0,
+      "bbox": [
+        426,
+        298,
+        479,
+        309
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "due",
+      "confidence": 94.0,
+      "bbox": [
+        484,
+        298,
+        525,
+        309
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "to",
+      "confidence": 96.0,
+      "bbox": [
+        514,
+        291,
+        528,
+        317
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "geometry",
+      "confidence": 94.0,
+      "bbox": [
+        531,
+        299,
+        594,
+        312
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "conditions.",
+      "confidence": 96.0,
+      "bbox": [
+        599,
+        298,
+        667,
+        309
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "Angle:",
+      "confidence": 76.0,
+      "bbox": [
+        887,
+        299,
+        919,
+        312
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "Online",
+      "confidence": 91.0,
+      "bbox": [
+        1631,
+        294,
+        1672,
+        304
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "Resources",
+      "confidence": 95.0,
+      "bbox": [
+        1677,
+        294,
+        1737,
+        304
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "a",
+      "confidence": 52.0,
+      "bbox": [
+        1861,
+        295,
+        1871,
+        301
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "se",
+      "confidence": 92.0,
+      "bbox": [
+        346,
+        321,
+        360,
+        329
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "check",
+      "confidence": 93.0,
+      "bbox": [
+        365,
+        318,
+        402,
+        329
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "if",
+      "confidence": 95.0,
+      "bbox": [
+        406,
+        318,
+        414,
+        329
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "the",
+      "confidence": 95.0,
+      "bbox": [
+        418,
+        318,
+        439,
+        329
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "selected",
+      "confidence": 96.0,
+      "bbox": [
+        443,
+        318,
+        497,
+        329
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "geometry",
+      "confidence": 96.0,
+      "bbox": [
+        503,
+        319,
+        566,
+        332
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "and",
+      "confidence": 96.0,
+      "bbox": [
+        571,
+        318,
+        594,
+        329
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "parameters",
+      "confidence": 96.0,
+      "bbox": [
+        600,
+        319,
+        674,
+        332
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "Marketplace",
+      "confidence": 96.0,
+      "bbox": [
+        1746,
+        322,
+        1816,
+        335
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "correct.",
+      "confidence": 60.0,
+      "bbox": [
+        346,
+        339,
+        389,
+        349
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "Try",
+      "confidence": 96.0,
+      "bbox": [
+        396,
+        338,
+        415,
+        352
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "turning",
+      "confidence": 95.0,
+      "bbox": [
+        419,
+        339,
+        465,
+        352
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "on",
+      "confidence": 96.0,
+      "bbox": [
+        471,
+        341,
+        486,
+        349
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "the",
+      "confidence": 95.0,
+      "bbox": [
+        491,
+        338,
+        511,
+        349
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "tangent",
+      "confidence": 96.0,
+      "bbox": [
+        516,
+        331,
+        565,
+        356
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "propagation",
+      "confidence": 96.0,
+      "bbox": [
+        572,
+        339,
+        653,
+        352
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "on,",
+      "confidence": 84.0,
+      "bbox": [
+        346,
+        347,
+        361,
+        373
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "Partner",
+      "confidence": 96.0,
+      "bbox": [
+        1654,
+        346,
+        1694,
+        371
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "Solutions.",
+      "confidence": 73.0,
+      "bbox": [
+        1700,
+        346,
+        1757,
+        371
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "®",
+      "confidence": 54.0,
+      "bbox": [
+        1629,
+        433,
+        1648,
+        452
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "subscription",
+      "confidence": 95.0,
+      "bbox": [
+        1653,
+        440,
+        1724,
+        453
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "services",
+      "confidence": 69.0,
+      "bbox": [
+        1729,
+        441,
+        1776,
+        450
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "Activate",
+      "confidence": 60.0,
+      "bbox": [
+        1555,
+        922,
+        1641,
+        947
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "Windows",
+      "confidence": 96.0,
+      "bbox": [
+        1650,
+        921,
+        1749,
+        940
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "to",
+      "confidence": 96.0,
+      "bbox": [
+        1673,
+        955,
+        1689,
+        967
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "activate",
+      "confidence": 96.0,
+      "bbox": [
+        1696,
+        944,
+        1754,
+        972
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "Windows.",
+      "confidence": 96.0,
+      "bbox": [
+        1766,
+        953,
+        1837,
+        967
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "00:33",
+      "confidence": 91.0,
+      "bbox": [
+        1860,
+        1034,
+        1895,
+        1045
+      ],
+      "region": "status_bar"
+    },
+    {
+      "text": "i",
+      "confidence": 55.0,
+      "bbox": [
+        1782,
+        1040,
+        1788,
+        1050
+      ],
+      "region": "status_bar"
+    }
+  ],
+  "visual_observations": {
+    "error_message_visible": true,
+    "warning_message_visible": false,
+    "left_ui_panel_visible": true,
+    "graphics_area_visible": true,
+    "status_bar_visible": true,
+    "dialog_visible": false
+  },
+  "problem_evidence": {
+    "problem_visible": true,
+    "problem_type": "geometric_conditions",
+    "primary_feature": "chamfer",
+    "related_features": [
+      "sketch"
+    ],
+    "error_messages": [
+      "Errors",
+      "rebuild error",
+      "not build",
+      "geometry conditions",
+      "due to geometry conditions",
+      "selected geometry and parameters",
+      "selected geometry",
+      "tangent propagation",
+      "error"
+    ],
+    "additional_evidence": [
+      "Parameters",
+      "parameters",
+      "Rebuild",
+      "geometry",
+      "tangent"
+    ],
+    "visible_parameter_values": [
+      "700.00mm",
+      "45.00deg",
+      "700mm"
+    ],
+    "summary": "Chamfer feature failed due to invalid geometric conditions. Related feature(s): sketch."
+  },
+  "vision_analysis": {
+    "detected_problem": "The Chamfer feature failed to build due to invalid geometric conditions with the specified parameter value of 700 mm.",
+    "confidence": 0.95,
+    "evidence": [
+      "Rebuild error popup states 'Could not build chamfer due to geometry conditions'",
+      "Chamfer parameters specify a distance of 700.00 mm and angle of 45.00 deg",
+      "Active feature creation context is Chamfer PropertyManager"
+    ],
+    "model_used": "gemini-3.6-flash"
+  },
+  "geometry_analysis": {
+    "graphics_width": 1574,
+    "graphics_height": 918,
+    "edge_pixel_ratio": 0.0316,
+    "dark_pixel_ratio": 0.2986,
+    "connected_component_count": 377,
+    "large_component_count": 11,
+    "geometry_bbox": [
+      0,
+      27,
+      1565,
+      918
+    ],
+    "horizontal_line_count": 248,
+    "vertical_line_count": 41,
+    "diagonal_line_count": 11,
+    "visual_geometry_detected": true,
+    "detection_method": "opencv_heuristic"
+  },
+  "solidworks_api_data": {
+    "DocumentTitle": "v1test5",
+    "Features": [
+      {
+        "Name": "Comments",
+        "Type": "CommentsFolder",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": []
+      },
+      {
+        "Name": "Favorites",
+        "Type": "FavoriteFolder",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": []
+      },
+      {
+        "Name": "History",
+        "Type": "HistoryFolder",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": []
+      },
+      {
+        "Name": "Selection Sets",
+        "Type": "SelectionSetFolder",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": []
+      },
+      {
+        "Name": "Sensors",
+        "Type": "SensorFolder",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": []
+      },
+      {
+        "Name": "Design Binder",
+        "Type": "DocsFolder",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": []
+      },
+      {
+        "Name": "Annotations",
+        "Type": "DetailCabinet",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": []
+      },
+      {
+        "Name": "Surface Bodies",
+        "Type": "SurfaceBodyFolder",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": []
+      },
+      {
+        "Name": "Solid Bodies",
+        "Type": "SolidBodyFolder",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": []
+      },
+      {
+        "Name": "Lights and Cameras",
+        "Type": "EnvFolder",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": []
+      },
+      {
+        "Name": "Markups",
+        "Type": "InkMarkupFolder",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": []
+      },
+      {
+        "Name": "Equations",
+        "Type": "EqnFolder",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": []
+      },
+      {
+        "Name": "Material <not specified>",
+        "Type": "MaterialFolder",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": []
+      },
+      {
+        "Name": "Front Plane",
+        "Type": "RefPlane",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": [
+          "Sketch1",
+          "Boss-Extrude1",
+          "Origin"
+        ]
+      },
+      {
+        "Name": "Top Plane",
+        "Type": "RefPlane",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": []
+      },
+      {
+        "Name": "Right Plane",
+        "Type": "RefPlane",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": []
+      },
+      {
+        "Name": "Origin",
+        "Type": "OriginProfileFeature",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [
+          "Front Plane"
+        ],
+        "Children": []
+      },
+      {
+        "Name": "Sketch1",
+        "Type": "ProfileFeature",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [
+          "Front Plane"
+        ],
+        "Children": [
+          "Boss-Extrude1"
+        ]
+      },
+      {
+        "Name": "Boss-Extrude1",
+        "Type": "Extrusion",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [
+          "Sketch1",
+          "Front Plane"
+        ],
+        "Children": [
+          "Chamfer1",
+          "Fillet1"
+        ]
+      },
+      {
+        "Name": "Fillet1",
+        "Type": "Fillet",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [
+          "Boss-Extrude1"
+        ],
+        "Children": []
+      },
+      {
+        "Name": "Chamfer1",
+        "Type": "Chamfer",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [
+          "Boss-Extrude1"
+        ],
+        "Children": []
+      }
+    ],
+    "Sketches": {
+      "Sketch1": {
+        "ConstraintStatusCode": 2,
+        "ConstraintStatus": "swUnderConstrained",
+        "SegmentCount": 9,
+        "PointCount": 7,
+        "DimensionValues": [],
+        "Entities": [
+          {
+            "EntityIndex": 1,
+            "TypeCode": 0,
+            "Type": "swSketchLINE",
+            "IsConstruction": false,
+            "Length": 0.08685573142185658,
+            "Relations": []
+          },
+          {
+            "EntityIndex": 2,
+            "TypeCode": 0,
+            "Type": "swSketchLINE",
+            "IsConstruction": false,
+            "Length": 0.15188468361810908,
+            "Relations": [
+              {
+                "RelationTypeCode": 4,
+                "RelationType": "swConstraintType_HORIZONTAL",
+                "SegmentIndex": 2
+              }
+            ]
+          },
+          {
+            "EntityIndex": 3,
+            "TypeCode": 0,
+            "Type": "swSketchLINE",
+            "IsConstruction": false,
+            "Length": 0.044654096983724065,
+            "Relations": [
+              {
+                "RelationTypeCode": 5,
+                "RelationType": "swConstraintType_VERTICAL",
+                "SegmentIndex": 3
+              }
+            ]
+          },
+          {
+            "EntityIndex": 4,
+            "TypeCode": 0,
+            "Type": "swSketchLINE",
+            "IsConstruction": false,
+            "Length": 0.15188468361810908,
+            "Relations": [
+              {
+                "RelationTypeCode": 4,
+                "RelationType": "swConstraintType_HORIZONTAL",
+                "SegmentIndex": 4
+              }
+            ]
+          },
+          {
+            "EntityIndex": 5,
+            "TypeCode": 0,
+            "Type": "swSketchLINE",
+            "IsConstruction": false,
+            "Length": 0.044654096983724065,
+            "Relations": [
+              {
+                "RelationTypeCode": 5,
+                "RelationType": "swConstraintType_VERTICAL",
+                "SegmentIndex": 5
+              }
+            ]
+          },
+          {
+            "EntityIndex": 6,
+            "TypeCode": 0,
+            "Type": "swSketchLINE",
+            "IsConstruction": false,
+            "Length": 0.12606428740303055,
+            "Relations": [
+              {
+                "RelationTypeCode": 4,
+                "RelationType": "swConstraintType_HORIZONTAL",
+                "SegmentIndex": 6
+              }
+            ]
+          },
+          {
+            "EntityIndex": 7,
+            "TypeCode": 0,
+            "Type": "swSketchLINE",
+            "IsConstruction": false,
+            "Length": 0.08292903725548754,
+            "Relations": [
+              {
+                "RelationTypeCode": 5,
+                "RelationType": "swConstraintType_VERTICAL",
+                "SegmentIndex": 7
+              }
+            ]
+          },
+          {
+            "EntityIndex": 8,
+            "TypeCode": 0,
+            "Type": "swSketchLINE",
+            "IsConstruction": false,
+            "Length": 0.12606428740303055,
+            "Relations": [
+              {
+                "RelationTypeCode": 4,
+                "RelationType": "swConstraintType_HORIZONTAL",
+                "SegmentIndex": 8
+              }
+            ]
+          },
+          {
+            "EntityIndex": 9,
+            "TypeCode": 0,
+            "Type": "swSketchLINE",
+            "IsConstruction": false,
+            "Length": 0.08292903725548754,
+            "Relations": [
+              {
+                "RelationTypeCode": 5,
+                "RelationType": "swConstraintType_VERTICAL",
+                "SegmentIndex": 9
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "Extrusions": {
+      "Boss-Extrude1": {
+        "IsBossFeature": false,
+        "ForwardDepth": 0.05,
+        "ReverseDepth": 0,
+        "ForwardEndCondition": 0,
+        "ReverseEndCondition": 0,
+        "ForwardEndConditionName": "swEndCondBlind",
+        "ReverseEndConditionName": "swEndCondBlind",
+        "ForwardDraftAngle": 0.017453292519943334,
+        "ReverseDraftAngle": 0,
+        "ForwardDraftOutward": false,
+        "ReverseDraftOutward": false,
+        "IsThinFeature": false,
+        "ContourCount": 3
+      }
+    },
+    "Problems": [
+      {
+        "FeatureName": "Sketch1",
+        "FeatureType": "Sketch",
+        "Problem": "Sketch is under-constrained.",
+        "Cause": "The sketch still has one or more degrees of freedom.",
+        "SuggestedAction": "Add the required dimensions or geometric relations to fully constrain the sketch.",
+        "Severity": "Warning",
+        "RelatedFeature": ""
+      }
+    ]
+  }
+}

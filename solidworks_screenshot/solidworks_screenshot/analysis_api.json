@@ -1,0 +1,373 @@
+{
+  "DocumentTitle": "v1test5",
+  "Features": [
+    {
+      "Name": "Comments",
+      "Type": "CommentsFolder",
+      "ErrorCode": 0,
+      "IsWarning": false,
+      "ErrorName": "",
+      "Parents": [],
+      "Children": []
+    },
+    {
+      "Name": "Favorites",
+      "Type": "FavoriteFolder",
+      "ErrorCode": 0,
+      "IsWarning": false,
+      "ErrorName": "",
+      "Parents": [],
+      "Children": []
+    },
+    {
+      "Name": "History",
+      "Type": "HistoryFolder",
+      "ErrorCode": 0,
+      "IsWarning": false,
+      "ErrorName": "",
+      "Parents": [],
+      "Children": []
+    },
+    {
+      "Name": "Selection Sets",
+      "Type": "SelectionSetFolder",
+      "ErrorCode": 0,
+      "IsWarning": false,
+      "ErrorName": "",
+      "Parents": [],
+      "Children": []
+    },
+    {
+      "Name": "Sensors",
+      "Type": "SensorFolder",
+      "ErrorCode": 0,
+      "IsWarning": false,
+      "ErrorName": "",
+      "Parents": [],
+      "Children": []
+    },
+    {
+      "Name": "Design Binder",
+      "Type": "DocsFolder",
+      "ErrorCode": 0,
+      "IsWarning": false,
+      "ErrorName": "",
+      "Parents": [],
+      "Children": []
+    },
+    {
+      "Name": "Annotations",
+      "Type": "DetailCabinet",
+      "ErrorCode": 0,
+      "IsWarning": false,
+      "ErrorName": "",
+      "Parents": [],
+      "Children": []
+    },
+    {
+      "Name": "Surface Bodies",
+      "Type": "SurfaceBodyFolder",
+      "ErrorCode": 0,
+      "IsWarning": false,
+      "ErrorName": "",
+      "Parents": [],
+      "Children": []
+    },
+    {
+      "Name": "Solid Bodies",
+      "Type": "SolidBodyFolder",
+      "ErrorCode": 0,
+      "IsWarning": false,
+      "ErrorName": "",
+      "Parents": [],
+      "Children": []
+    },
+    {
+      "Name": "Lights and Cameras",
+      "Type": "EnvFolder",
+      "ErrorCode": 0,
+      "IsWarning": false,
+      "ErrorName": "",
+      "Parents": [],
+      "Children": []
+    },
+    {
+      "Name": "Markups",
+      "Type": "InkMarkupFolder",
+      "ErrorCode": 0,
+      "IsWarning": false,
+      "ErrorName": "",
+      "Parents": [],
+      "Children": []
+    },
+    {
+      "Name": "Equations",
+      "Type": "EqnFolder",
+      "ErrorCode": 0,
+      "IsWarning": false,
+      "ErrorName": "",
+      "Parents": [],
+      "Children": []
+    },
+    {
+      "Name": "Material \u003Cnot specified\u003E",
+      "Type": "MaterialFolder",
+      "ErrorCode": 0,
+      "IsWarning": false,
+      "ErrorName": "",
+      "Parents": [],
+      "Children": []
+    },
+    {
+      "Name": "Front Plane",
+      "Type": "RefPlane",
+      "ErrorCode": 0,
+      "IsWarning": false,
+      "ErrorName": "",
+      "Parents": [],
+      "Children": [
+        "Sketch1",
+        "Origin",
+        "Boss-Extrude1"
+      ]
+    },
+    {
+      "Name": "Top Plane",
+      "Type": "RefPlane",
+      "ErrorCode": 0,
+      "IsWarning": false,
+      "ErrorName": "",
+      "Parents": [],
+      "Children": []
+    },
+    {
+      "Name": "Right Plane",
+      "Type": "RefPlane",
+      "ErrorCode": 0,
+      "IsWarning": false,
+      "ErrorName": "",
+      "Parents": [],
+      "Children": []
+    },
+    {
+      "Name": "Origin",
+      "Type": "OriginProfileFeature",
+      "ErrorCode": 0,
+      "IsWarning": false,
+      "ErrorName": "",
+      "Parents": [
+        "Front Plane"
+      ],
+      "Children": []
+    },
+    {
+      "Name": "Sketch1",
+      "Type": "ProfileFeature",
+      "ErrorCode": 0,
+      "IsWarning": false,
+      "ErrorName": "",
+      "Parents": [
+        "Front Plane"
+      ],
+      "Children": [
+        "Boss-Extrude1"
+      ]
+    },
+    {
+      "Name": "Boss-Extrude1",
+      "Type": "Extrusion",
+      "ErrorCode": 0,
+      "IsWarning": false,
+      "ErrorName": "",
+      "Parents": [
+        "Sketch1",
+        "Front Plane"
+      ],
+      "Children": [
+        "Fillet1",
+        "Chamfer1"
+      ]
+    },
+    {
+      "Name": "Fillet1",
+      "Type": "Fillet",
+      "ErrorCode": 0,
+      "IsWarning": false,
+      "ErrorName": "",
+      "Parents": [
+        "Boss-Extrude1"
+      ],
+      "Children": []
+    },
+    {
+      "Name": "Chamfer1",
+      "Type": "Chamfer",
+      "ErrorCode": 0,
+      "IsWarning": false,
+      "ErrorName": "",
+      "Parents": [
+        "Boss-Extrude1"
+      ],
+      "Children": []
+    }
+  ],
+  "Sketches": {
+    "Sketch1": {
+      "ConstraintStatusCode": 2,
+      "ConstraintStatus": "swUnderConstrained",
+      "SegmentCount": 9,
+      "PointCount": 7,
+      "DimensionValues": [],
+      "Entities": [
+        {
+          "EntityIndex": 1,
+          "TypeCode": 0,
+          "Type": "swSketchLINE",
+          "IsConstruction": false,
+          "Length": 0.08685573142185658,
+          "Relations": []
+        },
+        {
+          "EntityIndex": 2,
+          "TypeCode": 0,
+          "Type": "swSketchLINE",
+          "IsConstruction": false,
+          "Length": 0.15188468361810908,
+          "Relations": [
+            {
+              "RelationTypeCode": 4,
+              "RelationType": "swConstraintType_HORIZONTAL",
+              "SegmentIndex": 2
+            }
+          ]
+        },
+        {
+          "EntityIndex": 3,
+          "TypeCode": 0,
+          "Type": "swSketchLINE",
+          "IsConstruction": false,
+          "Length": 0.044654096983724065,
+          "Relations": [
+            {
+              "RelationTypeCode": 5,
+              "RelationType": "swConstraintType_VERTICAL",
+              "SegmentIndex": 3
+            }
+          ]
+        },
+        {
+          "EntityIndex": 4,
+          "TypeCode": 0,
+          "Type": "swSketchLINE",
+          "IsConstruction": false,
+          "Length": 0.15188468361810908,
+          "Relations": [
+            {
+              "RelationTypeCode": 4,
+              "RelationType": "swConstraintType_HORIZONTAL",
+              "SegmentIndex": 4
+            }
+          ]
+        },
+        {
+          "EntityIndex": 5,
+          "TypeCode": 0,
+          "Type": "swSketchLINE",
+          "IsConstruction": false,
+          "Length": 0.044654096983724065,
+          "Relations": [
+            {
+              "RelationTypeCode": 5,
+              "RelationType": "swConstraintType_VERTICAL",
+              "SegmentIndex": 5
+            }
+          ]
+        },
+        {
+          "EntityIndex": 6,
+          "TypeCode": 0,
+          "Type": "swSketchLINE",
+          "IsConstruction": false,
+          "Length": 0.12606428740303055,
+          "Relations": [
+            {
+              "RelationTypeCode": 4,
+              "RelationType": "swConstraintType_HORIZONTAL",
+              "SegmentIndex": 6
+            }
+          ]
+        },
+        {
+          "EntityIndex": 7,
+          "TypeCode": 0,
+          "Type": "swSketchLINE",
+          "IsConstruction": false,
+          "Length": 0.08292903725548754,
+          "Relations": [
+            {
+              "RelationTypeCode": 5,
+              "RelationType": "swConstraintType_VERTICAL",
+              "SegmentIndex": 7
+            }
+          ]
+        },
+        {
+          "EntityIndex": 8,
+          "TypeCode": 0,
+          "Type": "swSketchLINE",
+          "IsConstruction": false,
+          "Length": 0.12606428740303055,
+          "Relations": [
+            {
+              "RelationTypeCode": 4,
+              "RelationType": "swConstraintType_HORIZONTAL",
+              "SegmentIndex": 8
+            }
+          ]
+        },
+        {
+          "EntityIndex": 9,
+          "TypeCode": 0,
+          "Type": "swSketchLINE",
+          "IsConstruction": false,
+          "Length": 0.08292903725548754,
+          "Relations": [
+            {
+              "RelationTypeCode": 5,
+              "RelationType": "swConstraintType_VERTICAL",
+              "SegmentIndex": 9
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Extrusions": {
+    "Boss-Extrude1": {
+      "IsBossFeature": false,
+      "ForwardDepth": 0.05,
+      "ReverseDepth": 0,
+      "ForwardEndCondition": 0,
+      "ReverseEndCondition": 0,
+      "ForwardEndConditionName": "swEndCondBlind",
+      "ReverseEndConditionName": "swEndCondBlind",
+      "ForwardDraftAngle": 0.017453292519943334,
+      "ReverseDraftAngle": 0,
+      "ForwardDraftOutward": false,
+      "ReverseDraftOutward": false,
+      "IsThinFeature": false,
+      "ContourCount": 3
+    }
+  },
+  "Problems": [
+    {
+      "FeatureName": "Sketch1",
+      "FeatureType": "Sketch",
+      "Problem": "Sketch is under-constrained.",
+      "Cause": "The sketch still has one or more degrees of freedom.",
+      "SuggestedAction": "Add the required dimensions or geometric relations to fully constrain the sketch.",
+      "Severity": "Warning",
+      "RelatedFeature": ""
+    }
+  ]
+}

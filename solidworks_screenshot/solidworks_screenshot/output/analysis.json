@@ -1,0 +1,1878 @@
+{
+  "image": {
+    "width": 1898,
+    "height": 988,
+    "original_path": "C:\\Users\\Admin\\OneDrive\\Desktop\\solids projectB\\solidworks_screenshot\\solidworks_screenshot\\screenshots\\hook.png",
+    "was_resized": false
+  },
+  "regions": [
+    {
+      "name": "left_ui_panel",
+      "confidence": 0.8,
+      "bbox": [
+        0,
+        49,
+        342,
+        939
+      ],
+      "detection_method": "heuristic"
+    },
+    {
+      "name": "graphics_area",
+      "confidence": 0.7,
+      "bbox": [
+        342,
+        49,
+        1898,
+        889
+      ],
+      "detection_method": "heuristic"
+    },
+    {
+      "name": "status_bar",
+      "confidence": 0.5,
+      "bbox": [
+        0,
+        939,
+        1898,
+        988
+      ],
+      "detection_method": "heuristic"
+    }
+  ],
+  "ocr": [
+    {
+      "text": "Abs",
+      "confidence": 61.0,
+      "bbox": [
+        8,
+        70,
+        23,
+        78
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "Features",
+      "confidence": 95.0,
+      "bbox": [
+        2,
+        104,
+        56,
+        115
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "|",
+      "confidence": 89.0,
+      "bbox": [
+        64,
+        94,
+        73,
+        125
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "Sketch",
+      "confidence": 89.0,
+      "bbox": [
+        79,
+        104,
+        121,
+        115
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "|",
+      "confidence": 96.0,
+      "bbox": [
+        129,
+        94,
+        137,
+        125
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "Markup",
+      "confidence": 96.0,
+      "bbox": [
+        142,
+        104,
+        190,
+        118
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "of",
+      "confidence": 85.0,
+      "bbox": [
+        79,
+        142,
+        93,
+        153
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "hook",
+      "confidence": 73.0,
+      "bbox": [
+        99,
+        142,
+        128,
+        153
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "@)",
+      "confidence": 75.0,
+      "bbox": [
+        11,
+        228,
+        29,
+        246
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "Boss-Extrude",
+      "confidence": 87.0,
+      "bbox": [
+        39,
+        232,
+        131,
+        243
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "vx",
+      "confidence": 77.0,
+      "bbox": [
+        9,
+        264,
+        55,
+        276
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "@",
+      "confidence": 77.0,
+      "bbox": [
+        73,
+        264,
+        91,
+        277
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "From",
+      "confidence": 94.0,
+      "bbox": [
+        8,
+        306,
+        38,
+        316
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "‘Sketch",
+      "confidence": 70.0,
+      "bbox": [
+        48,
+        334,
+        84,
+        344
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "Plane",
+      "confidence": 95.0,
+      "bbox": [
+        90,
+        334,
+        119,
+        344
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "Direction",
+      "confidence": 95.0,
+      "bbox": [
+        8,
+        373,
+        63,
+        383
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "1",
+      "confidence": 95.0,
+      "bbox": [
+        69,
+        373,
+        73,
+        383
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "Mid",
+      "confidence": 92.0,
+      "bbox": [
+        49,
+        401,
+        70,
+        411
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "Plane",
+      "confidence": 95.0,
+      "bbox": [
+        76,
+        401,
+        105,
+        411
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "iS}",
+      "confidence": 54.0,
+      "bbox": [
+        13,
+        526,
+        31,
+        542
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "outward",
+      "confidence": 93.0,
+      "bbox": [
+        97,
+        562,
+        143,
+        572
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "O",
+      "confidence": 87.0,
+      "bbox": [
+        7,
+        595,
+        22,
+        610
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "Thin",
+      "confidence": 96.0,
+      "bbox": [
+        32,
+        599,
+        59,
+        609
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "Feature",
+      "confidence": 94.0,
+      "bbox": [
+        65,
+        599,
+        110,
+        609
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "Selected",
+      "confidence": 92.0,
+      "bbox": [
+        7,
+        635,
+        57,
+        645
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "Contours",
+      "confidence": 84.0,
+      "bbox": [
+        63,
+        635,
+        118,
+        645
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "2",
+      "confidence": 52.0,
+      "bbox": [
+        13,
+        661,
+        31,
+        679
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "*Trimet",
+      "confidence": 92.0,
+      "bbox": [
+        282,
+        921,
+        342,
+        934
+      ],
+      "region": "left_ui_panel"
+    },
+    {
+      "text": "nensions",
+      "confidence": 91.0,
+      "bbox": [
+        342,
+        107,
+        400,
+        115
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "|",
+      "confidence": 91.0,
+      "bbox": [
+        409,
+        96,
+        417,
+        124
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "SOLIDWORKS",
+      "confidence": 91.0,
+      "bbox": [
+        426,
+        96,
+        513,
+        124
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "Add-Ins",
+      "confidence": 84.0,
+      "bbox": [
+        519,
+        96,
+        571,
+        124
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "k",
+      "confidence": 89.0,
+      "bbox": [
+        343,
+        204,
+        349,
+        215
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "(unfi)",
+      "confidence": 90.0,
+      "bbox": [
+        354,
+        204,
+        387,
+        217
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "(Default).",
+      "confidence": 95.0,
+      "bbox": [
+        393,
+        204,
+        450,
+        217
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "DWORKS",
+      "confidence": 92.0,
+      "bbox": [
+        344,
+        247,
+        404,
+        275
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "x",
+      "confidence": 94.0,
+      "bbox": [
+        716,
+        254,
+        728,
+        266
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "contains",
+      "confidence": 96.0,
+      "bbox": [
+        417,
+        304,
+        471,
+        314
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "more",
+      "confidence": 94.0,
+      "bbox": [
+        476,
+        306,
+        510,
+        314
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "than",
+      "confidence": 77.0,
+      "bbox": [
+        514,
+        303,
+        542,
+        314
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "one",
+      "confidence": 91.0,
+      "bbox": [
+        548,
+        306,
+        572,
+        314
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "open",
+      "confidence": 94.0,
+      "bbox": [
+        577,
+        306,
+        609,
+        317
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "contour",
+      "confidence": 50.0,
+      "bbox": [
+        615,
+        304,
+        665,
+        314
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "If",
+      "confidence": 90.0,
+      "bbox": [
+        370,
+        343,
+        378,
+        354
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "the",
+      "confidence": 92.0,
+      "bbox": [
+        382,
+        343,
+        403,
+        354
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "sketch",
+      "confidence": 94.0,
+      "bbox": [
+        407,
+        343,
+        447,
+        354
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "appears",
+      "confidence": 65.0,
+      "bbox": [
+        453,
+        346,
+        505,
+        357
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "to",
+      "confidence": 96.0,
+      "bbox": [
+        509,
+        344,
+        522,
+        354
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "be",
+      "confidence": 94.0,
+      "bbox": [
+        528,
+        343,
+        544,
+        354
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "one",
+      "confidence": 96.0,
+      "bbox": [
+        549,
+        346,
+        573,
+        354
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "closed",
+      "confidence": 94.0,
+      "bbox": [
+        578,
+        343,
+        619,
+        354
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "contour,",
+      "confidence": 93.0,
+      "bbox": [
+        625,
+        344,
+        678,
+        356
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "it",
+      "confidence": 94.0,
+      "bbox": [
+        370,
+        364,
+        378,
+        374
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "may",
+      "confidence": 95.0,
+      "bbox": [
+        383,
+        366,
+        410,
+        377
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "actually",
+      "confidence": 96.0,
+      "bbox": [
+        415,
+        363,
+        465,
+        377
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "be",
+      "confidence": 96.0,
+      "bbox": [
+        470,
+        363,
+        486,
+        374
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "one",
+      "confidence": 96.0,
+      "bbox": [
+        491,
+        366,
+        515,
+        374
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "or",
+      "confidence": 95.0,
+      "bbox": [
+        520,
+        366,
+        533,
+        374
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "more",
+      "confidence": 92.0,
+      "bbox": [
+        538,
+        366,
+        572,
+        374
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "overlapping",
+      "confidence": 96.0,
+      "bbox": [
+        577,
+        363,
+        655,
+        377
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "‘open",
+      "confidence": 73.0,
+      "bbox": [
+        369,
+        386,
+        403,
+        397
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "contours.",
+      "confidence": 89.0,
+      "bbox": [
+        407,
+        384,
+        464,
+        394
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "To",
+      "confidence": 96.0,
+      "bbox": [
+        369,
+        423,
+        384,
+        434
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "attempt",
+      "confidence": 96.0,
+      "bbox": [
+        390,
+        424,
+        442,
+        437
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "to",
+      "confidence": 96.0,
+      "bbox": [
+        446,
+        424,
+        459,
+        434
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "merge",
+      "confidence": 94.0,
+      "bbox": [
+        465,
+        426,
+        507,
+        437
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "these",
+      "confidence": 96.0,
+      "bbox": [
+        511,
+        423,
+        546,
+        434
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "contours,",
+      "confidence": 92.0,
+      "bbox": [
+        551,
+        424,
+        609,
+        436
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "click",
+      "confidence": 91.0,
+      "bbox": [
+        615,
+        423,
+        644,
+        434
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "OK.",
+      "confidence": 91.0,
+      "bbox": [
+        648,
+        423,
+        667,
+        434
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "Otherwise",
+      "confidence": 81.0,
+      "bbox": [
+        369,
+        443,
+        435,
+        454
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "click",
+      "confidence": 96.0,
+      "bbox": [
+        439,
+        443,
+        469,
+        454
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "Cancel.",
+      "confidence": 67.0,
+      "bbox": [
+        473,
+        443,
+        515,
+        454
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "Resources",
+      "confidence": 64.0,
+      "bbox": [
+        1747,
+        92,
+        1816,
+        123
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "4}",
+      "confidence": 70.0,
+      "bbox": [
+        1607,
+        157,
+        1625,
+        175
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "welcome",
+      "confidence": 93.0,
+      "bbox": [
+        1630,
+        163,
+        1683,
+        173
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "to",
+      "confidence": 96.0,
+      "bbox": [
+        1688,
+        164,
+        1699,
+        173
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "SOLIDWORKS",
+      "confidence": 92.0,
+      "bbox": [
+        1704,
+        164,
+        1784,
+        173
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "3",
+      "confidence": 64.0,
+      "bbox": [
+        1543,
+        199,
+        1554,
+        223
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "Marketplace",
+      "confidence": 94.0,
+      "bbox": [
+        1725,
+        302,
+        1795,
+        315
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "(|",
+      "confidence": 54.0,
+      "bbox": [
+        1565,
+        214,
+        1579,
+        233
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "soLipworKs",
+      "confidence": 46.0,
+      "bbox": [
+        1610,
+        210,
+        1687,
+        237
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "Tools",
+      "confidence": 94.0,
+      "bbox": [
+        1696,
+        210,
+        1732,
+        237
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "v",
+      "confidence": 78.0,
+      "bbox": [
+        1840,
+        220,
+        1850,
+        226
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "la}",
+      "confidence": 52.0,
+      "bbox": [
+        1562,
+        246,
+        1582,
+        263
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "‘Online",
+      "confidence": 92.0,
+      "bbox": [
+        1606,
+        264,
+        1651,
+        294
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "Resources",
+      "confidence": 96.0,
+      "bbox": [
+        1658,
+        264,
+        1716,
+        294
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "a",
+      "confidence": 80.0,
+      "bbox": [
+        1840,
+        275,
+        1850,
+        281
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "®",
+      "confidence": 79.0,
+      "bbox": [
+        1564,
+        305,
+        1580,
+        322
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "Partner",
+      "confidence": 92.0,
+      "bbox": [
+        1628,
+        326,
+        1673,
+        354
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "Solutions",
+      "confidence": 96.0,
+      "bbox": [
+        1679,
+        334,
+        1731,
+        344
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "‘Subscription",
+      "confidence": 93.0,
+      "bbox": [
+        1610,
+        392,
+        1686,
+        405
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "Services",
+      "confidence": 73.0,
+      "bbox": [
+        1691,
+        392,
+        1740,
+        402
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "a",
+      "confidence": 77.0,
+      "bbox": [
+        1840,
+        393,
+        1850,
+        399
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "®",
+      "confidence": 55.0,
+      "bbox": [
+        1608,
+        413,
+        1627,
+        432
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "subscription",
+      "confidence": 94.0,
+      "bbox": [
+        1632,
+        420,
+        1703,
+        433
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "services",
+      "confidence": 72.0,
+      "bbox": [
+        1708,
+        421,
+        1755,
+        430
+      ],
+      "region": "graphics_area"
+    },
+    {
+      "text": "(>|)",
+      "confidence": 43.0,
+      "bbox": [
+        25,
+        940,
+        106,
+        959
+      ],
+      "region": "status_bar"
+    },
+    {
+      "text": "Model",
+      "confidence": 68.0,
+      "bbox": [
+        122,
+        943,
+        169,
+        955
+      ],
+      "region": "status_bar"
+    },
+    {
+      "text": "|",
+      "confidence": 68.0,
+      "bbox": [
+        181,
+        940,
+        182,
+        959
+      ],
+      "region": "status_bar"
+    },
+    {
+      "text": "Motion",
+      "confidence": 94.0,
+      "bbox": [
+        196,
+        943,
+        244,
+        955
+      ],
+      "region": "status_bar"
+    },
+    {
+      "text": "study",
+      "confidence": 56.0,
+      "bbox": [
+        250,
+        943,
+        299,
+        959
+      ],
+      "region": "status_bar"
+    },
+    {
+      "text": "1",
+      "confidence": 56.0,
+      "bbox": [
+        296,
+        939,
+        307,
+        965
+      ],
+      "region": "status_bar"
+    },
+    {
+      "text": "|",
+      "confidence": 62.0,
+      "bbox": [
+        325,
+        940,
+        326,
+        959
+      ],
+      "region": "status_bar"
+    },
+    {
+      "text": "|",
+      "confidence": 50.0,
+      "bbox": [
+        1886,
+        939,
+        1898,
+        988
+      ],
+      "region": "status_bar"
+    },
+    {
+      "text": "50k",
+      "confidence": 40.0,
+      "bbox": [
+        0,
+        976,
+        21,
+        987
+      ],
+      "region": "status_bar"
+    },
+    {
+      "text": "(unfi)",
+      "confidence": 58.0,
+      "bbox": [
+        28,
+        969,
+        61,
+        988
+      ],
+      "region": "status_bar"
+    },
+    {
+      "text": "Area:",
+      "confidence": 73.0,
+      "bbox": [
+        1062,
+        976,
+        1092,
+        987
+      ],
+      "region": "status_bar"
+    },
+    {
+      "text": "32046.45mm",
+      "confidence": 59.0,
+      "bbox": [
+        1101,
+        976,
+        1184,
+        987
+      ],
+      "region": "status_bar"
+    },
+    {
+      "text": "“2",
+      "confidence": 94.0,
+      "bbox": [
+        1191,
+        976,
+        1207,
+        987
+      ],
+      "region": "status_bar"
+    },
+    {
+      "text": "Perimeter:",
+      "confidence": 76.0,
+      "bbox": [
+        1212,
+        976,
+        1275,
+        987
+      ],
+      "region": "status_bar"
+    },
+    {
+      "text": "1730.93mm",
+      "confidence": 79.0,
+      "bbox": [
+        1284,
+        976,
+        1358,
+        987
+      ],
+      "region": "status_bar"
+    },
+    {
+      "text": "Under",
+      "confidence": 53.0,
+      "bbox": [
+        1396,
+        976,
+        1435,
+        987
+      ],
+      "region": "status_bar"
+    },
+    {
+      "text": "Defined",
+      "confidence": 74.0,
+      "bbox": [
+        1440,
+        976,
+        1491,
+        987
+      ],
+      "region": "status_bar"
+    },
+    {
+      "text": "Editing",
+      "confidence": 89.0,
+      "bbox": [
+        1511,
+        976,
+        1556,
+        988
+      ],
+      "region": "status_bar"
+    },
+    {
+      "text": "Sketch1",
+      "confidence": 91.0,
+      "bbox": [
+        1562,
+        976,
+        1610,
+        987
+      ],
+      "region": "status_bar"
+    },
+    {
+      "text": "MMGS",
+      "confidence": 73.0,
+      "bbox": [
+        1746,
+        976,
+        1788,
+        987
+      ],
+      "region": "status_bar"
+    },
+    {
+      "text": "@&",
+      "confidence": 72.0,
+      "bbox": [
+        1847,
+        973,
+        1863,
+        987
+      ],
+      "region": "status_bar"
+    }
+  ],
+  "visual_observations": {
+    "error_message_visible": false,
+    "warning_message_visible": false,
+    "left_ui_panel_visible": true,
+    "graphics_area_visible": true,
+    "status_bar_visible": true,
+    "dialog_visible": false
+  },
+  "problem_evidence": {
+    "problem_visible": false,
+    "problem_type": null,
+    "primary_feature": "boss-extrude",
+    "related_features": [
+      "sketch",
+      "extrude"
+    ],
+    "error_messages": [],
+    "additional_evidence": [],
+    "visible_parameter_values": [],
+    "summary": null
+  },
+  "vision_analysis": {
+    "detected_problem": "Sketch1 is under‑constrained, causing the boss‑extrude to be based on an under‑defined sketch.",
+    "confidence": 0.93,
+    "evidence": [
+      "API Problems list reports \"Sketch is under-constrained.\" for Sketch1",
+      "Sketch1 ConstraintStatus = swUnderConstrained in the API data",
+      "Status bar text includes \"Under Defined Editing Sketch1\""
+    ],
+    "model_used": "openai/gpt-oss-120b"
+  },
+  "geometry_analysis": {
+    "graphics_width": 1556,
+    "graphics_height": 840,
+    "edge_pixel_ratio": 0.0307,
+    "dark_pixel_ratio": 0.019,
+    "connected_component_count": 532,
+    "large_component_count": 4,
+    "geometry_bbox": [
+      0,
+      12,
+      1548,
+      840
+    ],
+    "horizontal_line_count": 249,
+    "vertical_line_count": 39,
+    "diagonal_line_count": 59,
+    "visual_geometry_detected": true,
+    "detection_method": "opencv_heuristic"
+  },
+  "solidworks_api_data": {
+    "DocumentTitle": "hook (unfi)",
+    "Features": [
+      {
+        "Name": "Comments",
+        "Type": "CommentsFolder",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": []
+      },
+      {
+        "Name": "Favorites",
+        "Type": "FavoriteFolder",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": []
+      },
+      {
+        "Name": "History",
+        "Type": "HistoryFolder",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": []
+      },
+      {
+        "Name": "Selection Sets",
+        "Type": "SelectionSetFolder",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": []
+      },
+      {
+        "Name": "Sensors",
+        "Type": "SensorFolder",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": []
+      },
+      {
+        "Name": "Design Binder",
+        "Type": "DocsFolder",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": []
+      },
+      {
+        "Name": "Annotations",
+        "Type": "DetailCabinet",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": []
+      },
+      {
+        "Name": "Surface Bodies",
+        "Type": "SurfaceBodyFolder",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": []
+      },
+      {
+        "Name": "Solid Bodies",
+        "Type": "SolidBodyFolder",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": []
+      },
+      {
+        "Name": "Lights and Cameras",
+        "Type": "EnvFolder",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": []
+      },
+      {
+        "Name": "Markups",
+        "Type": "InkMarkupFolder",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": []
+      },
+      {
+        "Name": "Equations",
+        "Type": "EqnFolder",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": []
+      },
+      {
+        "Name": "Material <not specified>",
+        "Type": "MaterialFolder",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": []
+      },
+      {
+        "Name": "Front Plane",
+        "Type": "RefPlane",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": [
+          "Sketch1",
+          "Origin"
+        ]
+      },
+      {
+        "Name": "Top Plane",
+        "Type": "RefPlane",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": []
+      },
+      {
+        "Name": "Right Plane",
+        "Type": "RefPlane",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [],
+        "Children": []
+      },
+      {
+        "Name": "Origin",
+        "Type": "OriginProfileFeature",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [
+          "Front Plane"
+        ],
+        "Children": [
+          "Sketch1"
+        ]
+      },
+      {
+        "Name": "Sketch1",
+        "Type": "ProfileFeature",
+        "ErrorCode": 0,
+        "IsWarning": false,
+        "ErrorName": "",
+        "Parents": [
+          "Front Plane",
+          "Origin"
+        ],
+        "Children": []
+      }
+    ],
+    "Sketches": {
+      "Sketch1": {
+        "ConstraintStatusCode": 2,
+        "ConstraintStatus": "swUnderConstrained",
+        "SegmentCount": 14,
+        "PointCount": 20,
+        "DimensionValues": [
+          53,
+          817,
+          1016.9999999999999,
+          400,
+          432,
+          130,
+          125.00000000000001,
+          72,
+          140,
+          335
+        ],
+        "Entities": [
+          {
+            "EntityIndex": 1,
+            "TypeCode": 1,
+            "Type": "swSketchARC",
+            "IsConstruction": false,
+            "Length": 0.7658570933738258,
+            "Relations": [
+              {
+                "RelationTypeCode": 9,
+                "RelationType": "swConstraintType_COINCIDENT",
+                "SegmentIndex": 1
+              },
+              {
+                "RelationTypeCode": 6,
+                "RelationType": "swConstraintType_TANGENT",
+                "SegmentIndex": 1
+              },
+              {
+                "RelationTypeCode": 15,
+                "RelationType": "swConstraintType_DIAMETER",
+                "SegmentIndex": 1
+              }
+            ]
+          },
+          {
+            "EntityIndex": 2,
+            "TypeCode": 1,
+            "Type": "swSketchARC",
+            "IsConstruction": false,
+            "Length": 0.2802522890494092,
+            "Relations": []
+          },
+          {
+            "EntityIndex": 3,
+            "TypeCode": 1,
+            "Type": "swSketchARC",
+            "IsConstruction": false,
+            "Length": 0.30227794529552293,
+            "Relations": [
+              {
+                "RelationTypeCode": 9,
+                "RelationType": "swConstraintType_COINCIDENT",
+                "SegmentIndex": 3
+              },
+              {
+                "RelationTypeCode": 6,
+                "RelationType": "swConstraintType_TANGENT",
+                "SegmentIndex": 3
+              }
+            ]
+          },
+          {
+            "EntityIndex": 4,
+            "TypeCode": 1,
+            "Type": "swSketchARC",
+            "IsConstruction": false,
+            "Length": 0.36630179228886184,
+            "Relations": [
+              {
+                "RelationTypeCode": 6,
+                "RelationType": "swConstraintType_TANGENT",
+                "SegmentIndex": 4
+              },
+              {
+                "RelationTypeCode": 9,
+                "RelationType": "swConstraintType_COINCIDENT",
+                "SegmentIndex": 4
+              }
+            ]
+          },
+          {
+            "EntityIndex": 5,
+            "TypeCode": 1,
+            "Type": "swSketchARC",
+            "IsConstruction": false,
+            "Length": 0.16586450781460044,
+            "Relations": []
+          },
+          {
+            "EntityIndex": 6,
+            "TypeCode": 1,
+            "Type": "swSketchARC",
+            "IsConstruction": false,
+            "Length": 0.0731305819409462,
+            "Relations": [
+              {
+                "RelationTypeCode": 6,
+                "RelationType": "swConstraintType_TANGENT",
+                "SegmentIndex": 6
+              }
+            ]
+          },
+          {
+            "EntityIndex": 7,
+            "TypeCode": 1,
+            "Type": "swSketchARC",
+            "IsConstruction": false,
+            "Length": 0.07200195638197344,
+            "Relations": [
+              {
+                "RelationTypeCode": 6,
+                "RelationType": "swConstraintType_TANGENT",
+                "SegmentIndex": 7
+              },
+              {
+                "RelationTypeCode": 3,
+                "RelationType": "swConstraintType_RADIUS",
+                "SegmentIndex": 7
+              }
+            ]
+          },
+          {
+            "EntityIndex": 8,
+            "TypeCode": 0,
+            "Type": "swSketchLINE",
+            "IsConstruction": true,
+            "Length": 1.017,
+            "Relations": [
+              {
+                "RelationTypeCode": 9,
+                "RelationType": "swConstraintType_COINCIDENT",
+                "SegmentIndex": 8
+              },
+              {
+                "RelationTypeCode": 9,
+                "RelationType": "swConstraintType_COINCIDENT",
+                "SegmentIndex": 8
+              },
+              {
+                "RelationTypeCode": 9,
+                "RelationType": "swConstraintType_COINCIDENT",
+                "SegmentIndex": 8
+              },
+              {
+                "RelationTypeCode": 11,
+                "RelationType": "swConstraintType_SYMMETRIC",
+                "SegmentIndex": 8
+              },
+              {
+                "RelationTypeCode": 11,
+                "RelationType": "swConstraintType_SYMMETRIC",
+                "SegmentIndex": 8
+              },
+              {
+                "RelationTypeCode": 5,
+                "RelationType": "swConstraintType_VERTICAL",
+                "SegmentIndex": 8
+              },
+              {
+                "RelationTypeCode": 2,
+                "RelationType": "swConstraintType_ANGLE",
+                "SegmentIndex": 8
+              },
+              {
+                "RelationTypeCode": 2,
+                "RelationType": "swConstraintType_ANGLE",
+                "SegmentIndex": 8
+              },
+              {
+                "RelationTypeCode": 1,
+                "RelationType": "swConstraintType_DISTANCE",
+                "SegmentIndex": 8
+              }
+            ]
+          },
+          {
+            "EntityIndex": 9,
+            "TypeCode": 0,
+            "Type": "swSketchLINE",
+            "IsConstruction": false,
+            "Length": 0.106,
+            "Relations": [
+              {
+                "RelationTypeCode": 12,
+                "RelationType": "swConstraintType_ATMIDDLE",
+                "SegmentIndex": 9
+              },
+              {
+                "RelationTypeCode": 4,
+                "RelationType": "swConstraintType_HORIZONTAL",
+                "SegmentIndex": 9
+              }
+            ]
+          },
+          {
+            "EntityIndex": 10,
+            "TypeCode": 0,
+            "Type": "swSketchLINE",
+            "IsConstruction": false,
+            "Length": 0.432,
+            "Relations": [
+              {
+                "RelationTypeCode": 5,
+                "RelationType": "swConstraintType_VERTICAL",
+                "SegmentIndex": 10
+              }
+            ]
+          },
+          {
+            "EntityIndex": 11,
+            "TypeCode": 0,
+            "Type": "swSketchLINE",
+            "IsConstruction": false,
+            "Length": 0.2000000000000001,
+            "Relations": [
+              {
+                "RelationTypeCode": 9,
+                "RelationType": "swConstraintType_COINCIDENT",
+                "SegmentIndex": 11
+              },
+              {
+                "RelationTypeCode": 2,
+                "RelationType": "swConstraintType_ANGLE",
+                "SegmentIndex": 11
+              }
+            ]
+          },
+          {
+            "EntityIndex": 12,
+            "TypeCode": 0,
+            "Type": "swSketchLINE",
+            "IsConstruction": false,
+            "Length": 0.432,
+            "Relations": [
+              {
+                "RelationTypeCode": 6,
+                "RelationType": "swConstraintType_TANGENT",
+                "SegmentIndex": 12
+              }
+            ]
+          },
+          {
+            "EntityIndex": 13,
+            "TypeCode": 0,
+            "Type": "swSketchLINE",
+            "IsConstruction": true,
+            "Length": 0.07875457263726619,
+            "Relations": [
+              {
+                "RelationTypeCode": 2,
+                "RelationType": "swConstraintType_ANGLE",
+                "SegmentIndex": 13
+              }
+            ]
+          },
+          {
+            "EntityIndex": 14,
+            "TypeCode": 0,
+            "Type": "swSketchLINE",
+            "IsConstruction": true,
+            "Length": 0.20000000000000007,
+            "Relations": [
+              {
+                "RelationTypeCode": 9,
+                "RelationType": "swConstraintType_COINCIDENT",
+                "SegmentIndex": 14
+              },
+              {
+                "RelationTypeCode": 1,
+                "RelationType": "swConstraintType_DISTANCE",
+                "SegmentIndex": 14
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "Extrusions": {},
+    "Problems": [
+      {
+        "FeatureName": "Sketch1",
+        "FeatureType": "Sketch",
+        "Problem": "Sketch is under-constrained.",
+        "Cause": "The sketch still has one or more degrees of freedom.",
+        "SuggestedAction": "Add the required dimensions or geometric relations to fully constrain the sketch.",
+        "Severity": "Warning",
+        "RelatedFeature": ""
+      }
+    ]
+  },
+  "solution": {
+    "suggested_fix": "Edit Sketch1, add a coincidence constraint between the start point of the construction line (Entity 8) and the Origin, then fully dimension the remaining free lengths and angles (e.g., set the 0.432 m vertical length of Entity 10, the 0.106 m horizontal length of Entity 9, and the 0.200 m distance of Entity 14) and apply any missing tangent or radius constraints to the arcs, so the sketch becomes fully defined before the boss‑extrude runs.",
+    "confidence": 0.94,
+    "reasoning": [
+      "The API reports Sketch1 as swUnderConstrained, meaning at least one degree of freedom remains.",
+      "Entity 8 (construction line) has many redundant or missing constraints and no fixed reference point.",
+      "Adding a coincidence to the Origin and explicit dimensions for the listed lengths removes the under‑definition."
+    ],
+    "model_used": "openai/gpt-oss-120b"
+  }
+}
